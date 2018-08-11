@@ -1,0 +1,12 @@
+package twitch.listeners.types;
+
+public enum ListenerType {
+	ON_STARTUP,
+	ON_SHUTDOWN,
+	ON_USER_MESSAGE,
+	ON_BROADCAST_MESSAGE,
+	ON_USER_LIST_RELOAD,
+	ON_CHANNEL_JOIN,
+	ON_CHANNEL_LEAVE,
+	ON_COMMAND
+}

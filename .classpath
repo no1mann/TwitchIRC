@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="res/|twitch/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Trevor/Google Drive/Libraries/Java/Pircbot/pircbot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Trevor/Google Drive/Libraries/Java/Json Simple/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Trevor/Google Drive/Libraries/Java/Minlog/minlog-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Trevor/Google Drive/Libraries/Java/Web Server/http-20070405.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
